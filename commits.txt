@@ -1,0 +1,29 @@
+commit 81e47f9e064b870e486503411a752f1e789de7f2
+Author: Daniel García <cronaline@gmail.com>
+Date:   Sat Jan 9 20:18:43 2016 -0600
+
+    Agregue página web
+
+commit c87885fbf813ab895585a52d0aa20d4bb6b9c505
+Author: Daniel García <cronaline@gmail.com>
+Date:   Sat Jan 9 20:17:22 2016 -0600
+
+    Agregue descripcion
+
+commit 9a8a82121e6fd8a31fea1a3ee766bd5a6893b005
+Author: Daniel García <cronaline@gmail.com>
+Date:   Sat Jan 9 20:13:57 2016 -0600
+
+    Agregado perfil Web
+
+commit 617d7d52c96755a045f4ede666761427be7b7fc3
+Author: Daniel García <cronaline@gmail.com>
+Date:   Sat Jan 9 14:01:54 2016 -0600
+
+    Modificado nombre y foto
+
+commit 6293b5538184c9cc465499efcfd7bb8b6e6ab27b
+Author: Daniel García <cronaline@gmail.com>
+Date:   Sat Jan 9 13:46:41 2016 -0600
+
+    Archivos de platzi
